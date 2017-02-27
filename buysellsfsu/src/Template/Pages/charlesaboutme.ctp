@@ -1,3 +1,6 @@
+<?php $this->start('title'); ?>
+Charles Williams
+<?php $this->end(); ?>
 <div class="container clearfix">
    <br><br>
    <h1>Charles Williams</h1>

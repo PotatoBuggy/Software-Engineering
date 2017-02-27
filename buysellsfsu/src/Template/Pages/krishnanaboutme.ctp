@@ -1,3 +1,6 @@
+<?php $this->start('title'); ?>
+Krishnan Ramakrishnan
+<?php $this->end(); ?>
 <div class="container clearfix">
    <br><br>
    <h1>Krishnan Ramakrishnan</h1>

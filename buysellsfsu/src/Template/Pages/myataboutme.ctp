@@ -1,3 +1,6 @@
+<?php $this->start('title'); ?>
+Myat Min Muang
+<?php $this->end(); ?>
 <div class="container clearfix">
    <br><br>
    <h1>Myat Min Muang</h1>

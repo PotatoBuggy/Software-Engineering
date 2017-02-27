@@ -13,7 +13,7 @@
  * @license       http://www.opensource.org/licenses/mit-license.php MIT License
  */
 
-$cakeDescription = 'CakePHP: the rapid development php framework';
+$cakeDescription = 'BuySellSFSU';
 ?>
 <!DOCTYPE html>
 <html>
@@ -56,7 +56,7 @@ $cakeDescription = 'CakePHP: the rapid development php framework';
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="/buysellsfsu/pages/home">About</a>
+                        <a href="/~mmaung/buysellsfsu/pages/home">About</a>
                     </li>
                     <li>
                         <a href="#">Services</a>
