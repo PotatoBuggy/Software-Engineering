@@ -1,4 +1,5 @@
 <div class="container clearfix">
+   <br><br>
    <h1>Leopoldo Rodriguez</h1>
    
    <div style="float:left; width:30%;">
